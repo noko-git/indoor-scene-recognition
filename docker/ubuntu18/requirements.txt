@@ -1,0 +1,11 @@
+jupyter
+kedro
+kedro-viz
+mlflow
+numpy
+pandas
+tqdm
+gsutil
+google-cloud
+google.cloud.storage
+google-cloud-automl

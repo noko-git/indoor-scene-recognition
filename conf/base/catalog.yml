@@ -1,0 +1,4 @@
+indoor_scene_images_df:
+  type: pickle.PickleDataSet
+  filepath: data/raw/indoor_scene_images_df.pickle
+  backend: pickle
